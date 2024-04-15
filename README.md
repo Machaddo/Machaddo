@@ -35,7 +35,7 @@ Brief description about me:
 :globe_with_meridians: Networks :
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vitor-macchado/">
+  <a href="https://www.linkedin.com/in/vitor-macchado/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
