@@ -2,10 +2,9 @@
 
 Brief description about me:
 
-- :muscle: .NET
-- :man_technologist: Software developer 
-- :telescope: I am currently a CRM intern at Itaú Unibanco, contributing to IT processes
-- :mortar_board: Studying computer science at Universidade Presbiteriana Mackenzie, São Paulo
+- :coffee: Coffee fan
+- :computer: .NET enthusiast
+- :brain: Defining phrase: Keep It Simple
 
 ---
 
