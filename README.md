@@ -3,7 +3,7 @@
 Brief description about me:
 
 - :coffee: Coffee fan
-- :computer: Software Enginerr
+- :computer: Software Engineer
 - :brain: Defining phrase: Keep It Simple
 
 ---
